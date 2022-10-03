@@ -1,0 +1,19 @@
+{
+  "name": "test_technique",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marwa-Iben-Khalifa/test_net-veille_python.git"
+  },
+  "author": "Marwa Iben Khalifa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marwa-Iben-Khalifa/test_net-veille_python/issues"
+  },
+  "homepage": "https://github.com/Marwa-Iben-Khalifa/test_net-veille_python#readme"
+}
